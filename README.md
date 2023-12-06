@@ -5,4 +5,5 @@ based on contents of [C Programming Language Tutorial](https://www.geeksforgeeks
 
 ## index
 
-Basic
+Basics
+Basics2

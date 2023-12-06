@@ -26,12 +26,19 @@
     <None Include="Basics.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="README.md" />
+    <None Include="Basics2.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png">
       <Filter>Resource Files\img</Filter>
     </Image>
     <Image Include="operators.png">
+      <Filter>Resource Files\img</Filter>
+    </Image>
+    <Image Include="keywords.png">
       <Filter>Resource Files\img</Filter>
     </Image>
   </ItemGroup>

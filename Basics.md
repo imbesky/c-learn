@@ -19,7 +19,7 @@ C is suitable for system programming like an operating system or compiler develo
 procedural language: languages that writes program codes as a sequence of instructions
 ex) FORTRAN, COBOL, ALGOL, BASIC, C and Pascal
 
-![difference](img/difference-of-procedural-languages.png)
+![difference](difference-of-procedural-languages.png)
 
 - may contain more than one function to perform a particular task
 
@@ -62,7 +62,7 @@ operator: symbols that represent operations to be performed on one or more opera
 - can be defined as the symbols at C
 - mathematical, relational, bitwise, conditional, or logical computations
 
-![operators](img/operators.png)
+![operators](operators.png)
 
 7. Libraries with Rich Functions
 

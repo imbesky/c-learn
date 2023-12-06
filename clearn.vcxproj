@@ -131,9 +131,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Basics.md" />
+    <None Include="Basics2.md" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png" />
+    <Image Include="keywords.png" />
     <Image Include="operators.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
