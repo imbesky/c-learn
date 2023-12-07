@@ -5,5 +5,6 @@ based on contents of [C Programming Language Tutorial](https://www.geeksforgeeks
 
 ## index
 
-Basics
-Basics2
+- Basics
+- Basics2
+- Variable&Constant

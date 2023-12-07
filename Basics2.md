@@ -53,8 +53,8 @@ Usage:
 
 `// single-line comment`
 
--  extends till the end of the line
-- don¡¯t need to specify end
+- extends till the end of the line
+- don't need to specify end
 
 2. multi-line
 

@@ -21,6 +21,9 @@
     <ClCompile Include="Basics.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Basics.md">
@@ -28,6 +31,9 @@
     </None>
     <None Include="README.md" />
     <None Include="Basics2.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Variable-&amp;-Constant.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

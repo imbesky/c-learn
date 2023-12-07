@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Basics.c" />
+    <ClCompile Include="Variable.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Basics.md" />
     <None Include="Basics2.md" />
     <None Include="README.md" />
+    <None Include="Variable-&amp;-Constant.md" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png" />
