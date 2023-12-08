@@ -128,15 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Basics.c" />
-    <ClCompile Include="Variable.c" />
+    <ClCompile Include="Constants.c" />
+    <ClCompile Include="Variables.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Basics.md" />
     <None Include="Basics2.md" />
+    <None Include="Constants.md" />
     <None Include="README.md" />
-    <None Include="Variable-&amp;-Constant.md" />
+    <None Include="Variables.md" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="constants-vs-literals.png" />
     <Image Include="difference-of-procedural-languages.png" />
     <Image Include="keywords.png" />
     <Image Include="operators.png" />

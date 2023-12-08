@@ -21,7 +21,10 @@
     <ClCompile Include="Basics.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Variable.c">
+    <ClCompile Include="Variables.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Constants.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -33,7 +36,10 @@
     <None Include="Basics2.md">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="Variable-&amp;-Constant.md">
+    <None Include="Variables.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Constants.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
@@ -45,6 +51,9 @@
       <Filter>Resource Files\img</Filter>
     </Image>
     <Image Include="keywords.png">
+      <Filter>Resource Files\img</Filter>
+    </Image>
+    <Image Include="constants-vs-literals.png">
       <Filter>Resource Files\img</Filter>
     </Image>
   </ItemGroup>

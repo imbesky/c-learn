@@ -1,4 +1,4 @@
-# C programming language: variable & constant
+# C programming language: variable
 
 ## Variable
 

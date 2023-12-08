@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 void yearIs() {
 	static int year = 2022;
@@ -13,4 +13,4 @@ int main() {
 	printf("Year passed");
 	yearIs(); // "year is 2025"
 	return 0;
-}
+}*/
