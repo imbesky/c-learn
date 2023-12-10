@@ -42,6 +42,9 @@
     <None Include="Constants.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="Variable&amp;Constant.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png">

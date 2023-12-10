@@ -136,6 +136,7 @@
     <None Include="Basics2.md" />
     <None Include="Constants.md" />
     <None Include="README.md" />
+    <None Include="Variable&amp;Constant.md" />
     <None Include="Variables.md" />
   </ItemGroup>
   <ItemGroup>

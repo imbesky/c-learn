@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 void changeValueOfConstant() {
 	const int i = 0;
@@ -12,4 +12,4 @@ void changeValueOfConstant() {
 int main() {
 	changeValueOfConstant();
 	return 0;
-}
+}*/
