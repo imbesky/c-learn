@@ -9,7 +9,8 @@ based on contents of [C Programming Language Tutorial](https://www.geeksforgeeks
 ## Index
 
 - Basics
-- Basics2
+- Basics 2
 - Variables
 - Constants
 - Variable & Constant
+- Data Types 1

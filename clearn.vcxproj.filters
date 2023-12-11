@@ -45,6 +45,9 @@
     <None Include="Variable&amp;Constant.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="DataTypes1.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png">
@@ -57,6 +60,9 @@
       <Filter>Resource Files\img</Filter>
     </Image>
     <Image Include="constants-vs-literals.png">
+      <Filter>Resource Files\img</Filter>
+    </Image>
+    <Image Include="ints.png">
       <Filter>Resource Files\img</Filter>
     </Image>
   </ItemGroup>

@@ -135,6 +135,7 @@
     <None Include="Basics.md" />
     <None Include="Basics2.md" />
     <None Include="Constants.md" />
+    <None Include="DataTypes1.md" />
     <None Include="README.md" />
     <None Include="Variable&amp;Constant.md" />
     <None Include="Variables.md" />
@@ -142,6 +143,7 @@
   <ItemGroup>
     <Image Include="constants-vs-literals.png" />
     <Image Include="difference-of-procedural-languages.png" />
+    <Image Include="ints.png" />
     <Image Include="keywords.png" />
     <Image Include="operators.png" />
   </ItemGroup>
