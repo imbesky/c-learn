@@ -48,6 +48,9 @@
     <None Include="DataTypes1.md">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="DataTypes2.md">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="difference-of-procedural-languages.png">
